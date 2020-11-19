@@ -1,20 +1,21 @@
 # Languages
 #   Create a `[X]` block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/
-
-# Configure the English version of the site.
+[et]
+  languageCode = "et"
+  contentDir = "content/et"
+  title = "Lastefotograaf Tallinnas"
+  [et.params]
+    description = "Vastündinu, laste ja beebi fotograaf Tallinnas: Viktoria Iljin"
+[ru]
+  languageCode = "ru"
+  contentDir = "content/ru"
+  title = "Фотограф новорожденных"
+  [ru.params]
+    description = "Фотограф новорожденных и малышей в Таллинне: Виктория Ильин"
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
-# Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  contentDir = "content/en"
+  title = "Newborn photographer"
+  [en.params]
+    description = "Newborn and babies photographer in Tallinn: Viktoria Iljin"

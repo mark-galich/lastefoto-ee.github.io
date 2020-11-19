@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+exit 
 # WARNING: this will reset the project to the Kickstart template!
 
 # Update Academic

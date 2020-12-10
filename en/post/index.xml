@@ -19,7 +19,7 @@ data.head()
 &lt;p>Academic supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> chart format.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-139465782" class="chart">&lt;/div>
+&lt;div id="chart-437518692" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -28,7 +28,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-139465782', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-437518692', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -51,7 +51,7 @@ Plotly.plot('chart-139465782', chart.data, chart.layout, {responsive: true});
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code>&lt;/pre>
 &lt;p>renders as&lt;/p>
-&lt;p>$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br>
+&lt;p>$$f(k;p_0^&lt;em>) = \begin{cases} p_0^&lt;/em> &amp;amp; \text{if }k=1, \\&lt;br>
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p>
 &lt;h3 id="diagrams">Diagrams&lt;/h3>
 &lt;p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>

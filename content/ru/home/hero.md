@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Дети"
+title = "Посмотри видео о фотосессии новорожденных"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-#hero_media = ""
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,15 +20,15 @@ title = "Дети"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#ff9a9e"
+  gradient_end = "#fad0c4"
   
   # Background image.
-  image = "1-lastefoto-ee.jpg"  # Name of image in `static/media/`.
+  # image = "1-lastefoto-ee.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -37,19 +37,20 @@ title = "Дети"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Заказать фотосессию"
+  url = "#contact"
+  label = "Закажи фотосессию"
   icon_pack = "fas"
-  icon = "heart"
+  icon = "camera-retro"
   
 [cta_alt]
-  url = "/"
-  label = "Узнать больше о фотосессии"
+  url = ""
+  label = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+  label = ''
 +++
-естественные, без масок и стеснений, они **открыты**, эмоциональны и невероятно быстро меняются
 
-Давайте вместе создавать красивую и неповторимую **_историю_ вашей семьи**!
+2 минуты, снятые каналом 3+ 
+
+{{< youtube zp9x5cIC_ow >}}

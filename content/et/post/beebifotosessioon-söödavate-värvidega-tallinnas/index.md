@@ -4,9 +4,9 @@
 title: "Beebifotosessioon söödavate värvidega Tallinnas"
 subtitle: "Mida teada enne fotosessiooni tulekut?"
 summary: "Mida teada enne fotosessiooni tulekut?"
-authors: [Viktoria Iljin]
-tags: [värvidega fotosessioon, lastefotosessioon värvidega, värvidega pildistamine]
-categories: [beebid]
+authors: ["Viktoria Iljin"]
+tags: ["värvidega fotosessioon", "lastefotosessioon värvidega", "värvidega pildistamine"]
+categories: ["beebid"]
 date: 2020-12-15T17:45:53+02:00
 lastmod: 2020-12-15T17:45:53+02:00
 featured: false

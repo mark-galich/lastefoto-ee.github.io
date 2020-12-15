@@ -4,9 +4,9 @@
 title: "Vastsündinu fotosessioon - parim kingitus värsketele vanematele"
 subtitle: "Kingitus, mis jääb igaveseks"
 summary: "Kingitus, mis jääb igaveseks"
-authors: [Viktoria Iljin]
-tags: [vastsündinu fotosessioon, vastsündinu pildistamine, vastsündinu pildistamine stuudios]
-categories: [vastsündinud]
+authors: ["Viktoria Iljin"]
+tags: ["vastsündinu fotosessioon", "vastsündinu pildistamine", "vastsündinu pildistamine stuudios"]
+categories: ["vastsündinud"]
 date: 2020-11-28T17:45:53+02:00
 lastmod: 2020-11-28T17:45:53+02:00
 featured: false

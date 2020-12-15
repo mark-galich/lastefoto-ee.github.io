@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Vastsündinu fotosessioon: mälestuse värv. Minu soovitused."
+title: "Vastsündinu fotosessioon: mälestuse värv. Vastsündinu fotograafi soovitused."
 subtitle: "Kuidas ja milleks valida fotosessiooni värvi?"
 summary: "Kuidas ja milleks valida fotosessiooni värvi?"
-authors: [Viktoria Iljin]
-tags: [vastsündinu fotosessioon, vastsündinu pildistamine, vastsündinu pildistamine stuudios]
-categories: [vastündinud]
+authors: ["Viktoria Iljin"]
+tags: ["vastsündinu fotosessioon", "vastsündinu pildistamine", "vastsündinu pildistamine stuudios"]
+categories: ["vastündinud"]
 date: 2020-12-15T17:45:53+02:00
 lastmod: 2020-12-15T17:45:53+02:00
 featured: false

@@ -12,7 +12,10 @@
   name = "Portfolio ja hinnad"
   url = "#portfolios"
   weight = 20
-
+[[main]]
+  name = "Blogi"
+  url = "#posts"
+  weight = 30
 [[main]]
   name = "Kontakt"
   url = "#contact"

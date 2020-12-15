@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Söödavate Värvidega Pildistamise Nüansid+test"
+title: "Söödavate Värvidega Pildistamise Nüansid"
 subtitle: "Mida teada enne fotosessiooni tulekut?"
-summary: "fotosessioon värvidega Tallinnas. Hind 120€. Fotograaf Viktoria Iljin"
+summary: "Mida teada enne fotosessiooni tulekut? Söödavate Värvidega Pildistamise Nüansid"
 authors: [Viktoria Iljin]
 tags: [värvidega fotosessioon, lastefotosessioon värvidega, värvidega pildistamine]
 categories: [Beebi]

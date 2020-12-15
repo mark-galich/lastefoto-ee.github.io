@@ -1,5 +1,5 @@
 ---
-title: Privaatsuspoliitika ja kasutamise tingimused
+title: "Privaatsuspoliitika ja kasutamise tingimused"
 date: "2020-12-15T00:00:00+01:00"
 draft: false
 share: false

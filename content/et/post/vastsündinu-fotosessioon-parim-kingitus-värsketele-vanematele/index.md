@@ -7,8 +7,8 @@ summary: "Kingitus, mis jääb igaveseks"
 authors: ["Viktoria Iljin"]
 tags: ["vastsündinu fotosessioon", "vastsündinu pildistamine", "vastsündinu pildistamine stuudios"]
 categories: ["vastsündinud"]
-date: 2020-11-28T17:45:53+02:00
-lastmod: 2020-11-28T17:45:53+02:00
+date: 2020-06-28T17:45:53+02:00
+lastmod: 2020-06-28T17:45:53+02:00
 featured: false
 draft: false
 
@@ -29,15 +29,15 @@ projects: []
 ---
 Räägitakse, et parim kingitus - on kingitus, mida inimene ise endale ei osta.
 
-![vastsündinu fotosessioon Tallinnas](./vastsundinu-fotosessioon-1.jpg)
+![vastsündinu fotosessioon Tallinnas](./vastsündinu-fotosessioon-parim-kingitus-värsketele-vanematele-1.jpg)
 
 Enamik emasid, kes tulevad minu juurde vastsündinu fotosessioonile, tunnistavad, et vaevalt nad ise oleks beebi fotosessiooni kasuks otsustanud. Argiaskeldusis - enne sünnitust ja pärast seda - ei teki kuidagi mõtet, et oleks tore jäädvustada beebi esimestel elupäevadel.
 
-![vastsündinu pildistamine](./vastsundinu-fotosessioon-2.jpg)
+![vastsündinu pildistamine](./vastsündinu-fotosessioon-parim-kingitus-värsketele-vanematele-2.jpg)
 
 Kuid kui on tähelepanelik sõbranna/ema/õde, kes kingib kinkekaardi vastsündinu fotosessioonile, siis lõpuks osutub see täpselt selliseks kingituseks, mis jääb meelde kogu eluks. Lõppude lõpuks professionaalsed pildid on küllastunud emaduse hellusest ja õrnusest… Ja need on palju väärtuslikumad kui mähkmed ja kõristid.
 
-![vastsündinu pildistamine stuudos Tallinnas](./vastsundinu-fotosessioon-3.jpg)
+![vastsündinu pildistamine stuudos Tallinnas](./vastsündinu-fotosessioon-parim-kingitus-värsketele-vanematele-3.jpg)
 
 Nii et kinkige oma armastatud tüdrukutele emotsioone, kinkige tundeid ... Need on igavesti. ❤️
 

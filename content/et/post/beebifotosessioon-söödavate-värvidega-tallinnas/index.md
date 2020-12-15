@@ -7,8 +7,8 @@ summary: "Mida teada enne fotosessiooni tulekut?"
 authors: ["Viktoria Iljin"]
 tags: ["värvidega fotosessioon", "lastefotosessioon värvidega", "värvidega pildistamine"]
 categories: ["beebid"]
-date: 2020-12-15T17:45:53+02:00
-lastmod: 2020-12-15T17:45:53+02:00
+date: 2020-08-06T17:45:53+02:00
+lastmod: 2020-08-06T17:45:53+02:00
 featured: false
 draft: false
 
@@ -36,31 +36,31 @@ Siis fotosessioon **Noor abstraktsionist** lõuendi ja söödavate värvidega - 
 
 Kuigi seda tüüpi fotosessioon on Tallinnas absoluutne uudsus, on mul juba õnnestunud piisavalt pildistada, et teha huvitavaid järeldusi.
 
-![beebi fotosessioon värvidega](./fotosessioon-soodavate-varvidega-1.jpg)
+![beebi fotosessioon värvidega](./beebifotosessioon-söödavate-värvidega-tallinnas-1.jpg)
 
 # Nagu “Cake smash!” fotosessioonil, ei tee kõik lapsed kohe «räpaseid» asju. Ja see on okei.
 
-![beebifotosessioon söödavate värvidega](./fotosessioon-soodavate-varvidega-2.jpg)
+![beebifotosessioon söödavate värvidega](./beebifotosessioon-söödavate-värvidega-tallinnas-2.jpg)
 
 Kõik inimesed vajavad uue ruumi ja inimesega kohanemiseks aega, eriti väikesed.
 
-![beebifotosessioon värvidega](./fotosessioon-soodavate-varvidega-3.jpg)
+![beebifotosessioon värvidega](./beebifotosessioon-söödavate-värvidega-tallinnas-3.jpg)
 
 Võtan seda aega alati varuga ja võtan arvesse ka lisapause joomiseks-söömiseks-pissimiseks. Seega, ärge muretsege, meil on kindlasti aega kõigeks, isegi kui laps kohe värvi ei haara.
 
-![beebi pildistamine värvidega](./fotosessioon-soodavate-varvidega-4.jpg)
+![beebi pildistamine värvidega](./beebifotosessioon-söödavate-värvidega-tallinnas-4.jpg)
 
 # Üllatavalt, aga mitte kõik lapsed armastavad määrduda. Just eile oli mul fotosessioon väikse printsessiga, kes ei tahtnud oma magusaid sõrmi määrida.
 
-![beebi pildistamine värvidega](./fotosessioon-soodavate-varvidega-5.jpg)
+![beebi pildistamine värvidega](./beebifotosessioon-söödavate-värvidega-tallinnas-5.jpg)
 
 Kuid leidsime lahenduse. Maalisime kõigi võimalike vahenditega: kasutatud oli lusikas, mänguasjahaamer, sõõrik mooniseemnetega ja isegi tükk pappi. Ja tulemus on suurepärane!
 
-![beebi pildistamine söödavate värvidega](./fotosessioon-soodavate-varvidega-6.jpg)
+![beebi pildistamine söödavate värvidega](./beebifotosessioon-söödavate-värvidega-tallinnas-6.jpg)
 
 Seetõttu ärge muretsege, kui midagi ei lähe kavandatud stsenaariumi järgi: eksprompt on reeglina veelgi huvitavam!
 
-![beebifotosessioon söödavate värvidega](./fotosessioon-soodavate-varvidega-7.jpg)
+![beebifotosessioon söödavate värvidega](./beebifotosessioon-söödavate-värvidega-tallinnas-7.jpg)
 
 
 

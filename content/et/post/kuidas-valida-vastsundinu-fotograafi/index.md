@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Vastsündinu fotosessioon: mälestuse värv. Vastsündinu fotograafi soovitused."
-subtitle: "Kuidas ja milleks valida fotosessiooni värvi?"
-summary: "Kuidas ja milleks valida fotosessiooni värvi?"
+title: "Kuidas valida vastsündinu fotograafi"
+subtitle: "Mida meeles pidada vastsündinu fotograafi valimisel"
+summary: "Mida meeles pidada vastsündinu fotograafi valimisel"
 authors: ["Viktoria Iljin"]
 tags: ["vastsündinu fotosessioon", "vastsündinu pildistamine", "vastsündinu pildistamine stuudios"]
 categories: ["vastündinud"]
-date: 2020-04-19T17:45:53+02:00
-lastmod: 2020-04-19T17:45:53+02:00
+date: 2020-01-29T17:45:53+02:00
+lastmod: 2020-01-29T17:45:53+02:00
 featured: false
 draft: false
 
@@ -27,34 +27,25 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Rääkisin juba vastsündinu fotosessiooni kõige sobivamaks ajast, kõige armsatest poosidest... Ja täna tahan puudutada värvi teemat.
+Vastsündinu fotograafi valimine - on päris oluline asi. Vastsündinu pildistamise turg kasvab väga kiiresti ja vastsündinu fotograafe on väga palju. Kuidas teha õige valiku?
+Teie mitte lihtsalt valite fotograafi, teie valite spetsialisti, kes professionaalselt ja turvaliselt pildistab teie beebi.
 
-![vastsündinu pildistamine](./vastsundinu-fotosessioon-1.jpg)
+![vastsündinu pildistamine](./kuidas-valida-vastsundinu-fotograafi-1.jpg)
 
-Enne fotosessiooni saavad vanemad minult küsimustiku, mille üheks punktiks on värvi valimine, milles fotosessioon toimub. Mul on umbes 15 värvi, mille hulgast saate valida.
+* Alusatge fotograafi otsingut olles beebiootel. Kui beebi sünnib, teil ei ole selleks lihtsalt aega. Ja vastsündinu fotosessiooniks ideaalne periood (4-15 päevi) jookseb nähtamatult.
 
-![vastsündinu fotosessioon](./vastsundinu-fotosessioon-2.jpg)
+![vastsündinu fotosessioon](./kuidas-valida-vastsundinu-fotograafi-2.jpg)
 
-Näib, et kõik on lihtne: abikaasa lemmiku jalgpalli meeskonna värv - punane, ka mulle alati meeldis see värv: energiline, särav ... valime selle!
+* Valige fotograafi, kes spetsialiseerub vastsündinu pildistamisel. Vaadake portfoolio läbi. Kui vajalik, küsige fotograafi näidata ühe sessiooni seeriat, nii saate paremini aru kas antud pildistamise stiil sobib teile või mitte.
 
-![vastsündinu fotosessioon stuudios Tallinnas](./vastsundinu-fotosessioon-3.jpg)
+![vastsündinu pildistamine Tallinnas](./kuidas-valida-vastsundinu-fotograafi-3.jpg)
 
-AGA.
-Kas roospunased pildid sobivad teie maja interjööri?
-Ja kui beebi sündis punaka nahatooniga, kas olete kindel, et soovite seda rõivaste ja rekvisiitide abil veelgi rõhutada? Või on parem seda punetust rohelisega tasandada?
+* Lugege teiste kliente arvamusi. Küsige kui kaua fotograaf vastsündinuid pildistab, kus ja kelle juures õppis.
 
-![vastsündinu fotosessioon stuudios](./vastsundinu-fotosessioon-4.jpg)
+![vastsündinu fotosessioon stuudios Tallinnas](./kuidas-valida-vastsundinu-fotograafi-4.jpg)
 
-Need on sellised peensused, millistest te isegi ei mõtle.
-Aga nüüd, kui te neist teate, mis värvile teie valik langeks? Kas jääte truuks klassikale? Või valite julgemad/ekstravagantsemad värvid?
+* Ärge valige fotograafi, baseerudes ainult vastsündinu fotosessiooni hinnal. Vastsündinu fotosessiooni hind ei saa madal olla - peale vajaliku rekvisiidi, mis on vaja osta ja fotosessiooniks ette valmistada, professionaalne vastsündinu fotograaf õpib erinevatel kallidel workshop'idel, et mitte ainult rõõmustada teid ilusate piltidega vaid tagada teie beebi turvalisust fotosessiooni ajal. Turvalisus - on kõige olulisem vastsündinu fotosessioonil. Fotosessiooni hind on muidugi väga tähtis, aga ärge tehke seda peamiseks kriteeriumiks.
 
-![vastsündinu pildistamine stuudios Tallinnas](./vastsundinu-fotosessioon-5.jpg)
+![vastsündinu pildistamine stuudios](./kuidas-valida-vastsundinu-fotograafi-5.jpg)
 
-
-
-
-
-
-
-
-
+Valige fotograafi, kes kingib pilte, mille peale vaadates, saate meenutada kui pisike teie beebi oli, millised peenikesed sõrmed  ja magusad varbad tal olid. ❤️

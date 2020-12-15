@@ -47,7 +47,7 @@ See on tõesti suur ja hirmutav asi. Nii et ole valmis liituma oma lapsega tordi
 * Tore, kui teil on kaasas kaks riidekomplekti: üks imearmsate perepiltide jaoks fotosessiooni alguses ja teine - ​​kreemjas määrduvate plekkide jaoks.
 * Kuna fotosessioon on väga emotsionaalne sündmus, eriti kui lubatakse midagi näole ja põrandale määrida, on parem teha fotosessiooni paar nädalat enne sünnipäeva, muidu võib laps kogeda liiga palju muljeid.
 
-![cake smash fotosessioon stuudios](./ccake-smash-ehk-esimese-sünnipäeva-fotosessioon-4.jpg)
+![cake smash fotosessioon stuudios](./cake-smash-ehk-esimese-sünnipäeva-fotosessioon-4.jpg)
 
 * Samal põhjusel arvestage fotosessiooni aja valimisel kindlasti lapse une- ja ärkveloleku rütmi, et väsimus ei mõjutaks meie lõbusaid kaadreid.
 * Ma saan ise sobiva tordi eest hoolitseda. Kuid kui soovite tingimata enda oma tuua, siis konsulteerige minuga eelnevalt: räägin teile peensustest, mis on CAKE SMASH fotosessiooni visuaalse komponendi jaoks olulised.

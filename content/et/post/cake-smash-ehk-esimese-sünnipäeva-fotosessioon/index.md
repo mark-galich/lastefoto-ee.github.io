@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Vastsündinu fotosessioon - parim kingitus värsketele vanematele"
-subtitle: "Kingitus, mis jääb igaveseks"
-summary: "Kingitus, mis jääb igaveseks"
+title: "Cake Smash, ehk esimese sünnipäeva fotosessioon"
+subtitle: "Foto-kingitus beebile esimeseks sünnipäevaks"
+summary: "Foto-kingitus beebile esimeseks sünnipäevaks"
 authors: [Viktoria Iljin]
-tags: [vastsündinu fotosessioon, vastsündinu pildistamine, vastsündinu pildistamine stuudios]
-categories: [vastsündinud]
-date: 2020-11-28T17:45:53+02:00
-lastmod: 2020-11-28T17:45:53+02:00
+tags: [beebifotosessioon, cake smash fotosessioon, esimese s[nnipéva] pildistamine stuudios]
+categories: [beebid]
+date: 2020-05-07T17:45:53+02:00
+lastmod: 2020-05-07T17:45:53+02:00
 featured: false
 draft: false
 
@@ -27,17 +27,29 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Räägitakse, et parim kingitus - on kingitus, mida inimene ise endale ei osta.
+Nii lahedad need üheaastased lapsed on!
 
-![vastsündinu fotosessioon Tallinnas](./vastsundinu-fotosessioon-1.jpg)
+On tõeline soov jäädvustada nende ebakindlad sammud ja pilk, mis on täis põnevust uskumatutest avastustest, mis juhtuvad iga sekundit väikese inimese elus!
+Seepärast valivad paljud vanemad **CAKE SMASH** fotosessiooni esemese sünnipäeva jäädvustamiseks!
 
-Enamik emasid, kes tulevad minu juurde vastsündinu fotosessioonile, tunnistavad, et vaevalt nad ise oleks beebi fotosessiooni kasuks otsustanud. Argiaskeldusis - enne sünnitust ja pärast seda - ei teki kuidagi mõtet, et oleks tore jäädvustada beebi esimestel elupäevadel.
+![cake smash fotosessioon stuudios](./cake-smash_fotosessioon-1.jpg)
 
-![vastsündinu pildistamine](./vastsundinu-fotosessioon-2.jpg)
+Värviline glasuur põskedel, hele naer ja võimalus määrida kõike ümbritsevat - kas see pole iga sünnipäevalapse soov?
+Kuid sellel fotosessioonil on paar nüanssi, millest peaksite eelnevalt teadma, et tegelikkus ei kalduks teie värvikatest ootustest kõrvale.
 
-Kuid kui on tähelepanelik sõbranna/ema/õde, kes kingib kinkekaardi vastsündinu fotosessioonile, siis lõpuks osutub see täpselt selliseks kingituseks, mis jääb meelde kogu eluks. Lõppude lõpuks professionaalsed pildid on küllastunud emaduse hellusest ja õrnusest… Ja need on palju väärtuslikumad kui mähkmed ja kõristid.
+![cake smash fotosessioon stuudios](./cake-smash_fotosessioon-2.jpg)
 
-![vastsündinu pildistamine stuudos Tallinnas](./vastsundinu-fotosessioon-3.jpg)
+* On olemas võimalus, et teie, tavaliselt aktiivne ja uudishimulik beebi, kardab torti.
+See on tõesti suur ja hirmutav asi. Nii et ole valmis liituma oma lapsega tordi hävitusel!
 
-Nii et kinkige oma armastatud tüdrukutele emotsioone, kinkige tundeid ... Need on igavesti. ❤️
+![cake smash fotosessioon stuudios](./cake-smash_fotosessioon-3.jpg)
 
+* Tore, kui teil on kaasas kaks riidekomplekti: üks imearmsate perepiltide jaoks fotosessiooni alguses ja teine - ​​kreemjas määrduvate plekkide jaoks.
+* Kuna fotosessioon on väga emotsionaalne sündmus, eriti kui lubatakse midagi näole ja põrandale määrida, on parem teha fotosessiooni paar nädalat enne sünnipäeva, muidu võib laps kogeda liiga palju muljeid.
+
+![cake smash fotosessioon stuudios](./cake-smash_fotosessioon-4.jpg)
+
+* Samal põhjusel arvestage fotosessiooni aja valimisel kindlasti lapse une- ja ärkveloleku rütmi, et väsimus ei mõjutaks meie lõbusaid kaadreid.
+* Ma saan ise sobiva tordi eest hoolitseda. Kuid kui soovite tingimata enda oma tuua, siis konsulteerige minuga eelnevalt: räägin teile peensustest, mis on CAKE SMASH fotosessiooni visuaalse komponendi jaoks olulised.
+
+![cake smash fotosessioon stuudios](./cake-smash_fotosessioon-5.jpg)

@@ -5,7 +5,7 @@ title: "Cake Smash, ehk esimese sünnipäeva fotosessioon"
 subtitle: "Foto-kingitus beebile esimeseks sünnipäevaks"
 summary: "Foto-kingitus beebile esimeseks sünnipäevaks"
 authors: [Viktoria Iljin]
-tags: [beebifotosessioon, cake smash fotosessioon, esimese s[nnipéva] pildistamine stuudios]
+tags: [beebifotosessioon, cake smash fotosessioon, esimese sünnipäeva pildistamine stuudios]
 categories: [beebid]
 date: 2020-05-07T17:45:53+02:00
 lastmod: 2020-05-07T17:45:53+02:00

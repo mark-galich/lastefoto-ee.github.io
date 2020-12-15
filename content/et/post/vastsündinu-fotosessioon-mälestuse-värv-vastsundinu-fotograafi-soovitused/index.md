@@ -6,7 +6,7 @@ subtitle: "Kuidas ja milleks valida fotosessiooni värvi?"
 summary: "Kuidas ja milleks valida fotosessiooni värvi?"
 authors: ["Viktoria Iljin"]
 tags: ["vastsündinu fotosessioon", "vastsündinu pildistamine", "vastsündinu pildistamine stuudios"]
-categories: ["vastündinud"]
+categories: ["vastsündinud"]
 date: 2020-04-19T17:45:53+02:00
 lastmod: 2020-04-19T17:45:53+02:00
 featured: false

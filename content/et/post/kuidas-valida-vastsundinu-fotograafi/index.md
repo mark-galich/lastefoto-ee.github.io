@@ -6,7 +6,7 @@ subtitle: "Mida meeles pidada vastsündinu fotograafi valimisel"
 summary: "Mida meeles pidada vastsündinu fotograafi valimisel"
 authors: ["Viktoria Iljin"]
 tags: ["vastsündinu fotosessioon", "vastsündinu pildistamine", "vastsündinu pildistamine stuudios"]
-categories: ["vastündinud"]
+categories: ["vastsündinud"]
 date: 2020-01-29T17:45:53+02:00
 lastmod: 2020-01-29T17:45:53+02:00
 featured: false

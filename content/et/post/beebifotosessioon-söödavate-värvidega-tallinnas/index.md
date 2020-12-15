@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Beebifotosessioon söödavate värvidega Tallinnas"
-subtitle: "Mida teada enne fotosessiooni tulekut?"
-summary: "Mida teada enne fotosessiooni tulekut?"
+subtitle: "Mida teada enne fotosessioonile tulekut?"
+summary: "Mida teada enne fotosessioonile tulekut?"
 authors: ["Viktoria Iljin"]
 tags: ["värvidega fotosessioon", "lastefotosessioon värvidega", "värvidega pildistamine"]
 categories: ["beebid"]

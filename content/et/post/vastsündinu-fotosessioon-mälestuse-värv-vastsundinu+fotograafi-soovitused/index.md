@@ -33,6 +33,27 @@ Rääkisin juba vastsündinu fotosessiooni kõige sobivamaks ajast, kõige armsa
 
 Enne fotosessiooni saavad vanemad minult küsimustiku, mille üheks punktiks on värvi valimine, milles fotosessioon toimub. Mul on umbes 15 värvi, mille hulgast saate valida.
 
+![vastsündinu fotosessioon](./vastsundinu-fotosessioon-2.jpg)
+
+Näib, et kõik on lihtne: abikaasa lemmiku jalgpalli meeskonna värv - punane, ka mulle alati meeldis see värv: energiline, särav ... valime selle!
+
+![vastsündinu fotosessioon stuudios Tallinnas](./vastsundinu-fotosessioon-3.jpg)
+
+AGA.
+Kas roospunased pildid sobivad teie maja interjööri?
+Ja kui beebi sündis punaka nahatooniga, kas olete kindel, et soovite seda rõivaste ja rekvisiitide abil veelgi rõhutada? Või on parem seda punetust rohelisega tasandada?
+
+![vastsündinu fotosessioon stuudios](./vastsundinu-fotosessioon-4.jpg)
+
+Need on sellised peensused, millistest te isegi ei mõtle.
+Aga nüüd, kui te neist teate, mis värvile teie valik langeks? Kas jääte truuks klassikale? Või valite julgemad/ekstravagantsemad värvid?
+
+![vastsündinu pildistamine stuudios Tallinnas](./vastsundinu-fotosessioon-5.jpg)
+
+
+
+
+
 
 
 

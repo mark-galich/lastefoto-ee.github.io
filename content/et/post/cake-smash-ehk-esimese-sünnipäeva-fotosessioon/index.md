@@ -52,4 +52,3 @@ See on tõesti suur ja hirmutav asi. Nii et ole valmis liituma oma lapsega tordi
 * Samal põhjusel arvestage fotosessiooni aja valimisel kindlasti lapse une- ja ärkveloleku rütmi, et väsimus ei mõjutaks meie lõbusaid kaadreid.
 * Ma saan ise sobiva tordi eest hoolitseda. Kuid kui soovite tingimata enda oma tuua, siis konsulteerige minuga eelnevalt: räägin teile peensustest, mis on CAKE SMASH fotosessiooni visuaalse komponendi jaoks olulised.
 
-![cake smash fotosessioon stuudios](./cake-smash-ehk-esimese-sünnipäeva-fotosessioon-5.jpg)

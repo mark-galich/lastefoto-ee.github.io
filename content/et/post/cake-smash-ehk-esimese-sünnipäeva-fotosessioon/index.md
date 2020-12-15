@@ -7,8 +7,8 @@ summary: "Foto-kingitus beebile esimeseks sünnipäevaks"
 authors: ["Viktoria Iljin"]
 tags: ["beebifotosessioon", "cake smash fotosessioon", "esimese sünnipäeva pildistamine stuudios"]
 categories: ["beebid"]
-date: 2020-05-07T17:45:53+02:00
-lastmod: 2020-05-07T17:45:53+02:00
+date: 2020-01-29T17:45:53+02:00
+lastmod: 2020-01-29T17:45:53+02:00
 featured: false
 draft: false
 
@@ -33,23 +33,22 @@ projects: []
 On tõeline soov jäädvustada nende ebakindlad sammud ja pilk, mis on täis põnevust uskumatutest avastustest, mis juhtuvad iga sekundit väikese inimese elus!
 Seepärast valivad paljud vanemad **CAKE SMASH** fotosessiooni esemese sünnipäeva jäädvustamiseks!
 
-![cake smash fotosessioon stuudios](cake-smash-ehk-esimese-sünnipäeva-fotosessioon-1.jpg)
+![cake smash fotosessioon stuudios](./cake-smash-ehk-esimese-sünnipäeva-fotosessioon-1.jpg)
 
 Värviline glasuur põskedel, hele naer ja võimalus määrida kõike ümbritsevat - kas see pole iga sünnipäevalapse soov?
 Kuid sellel fotosessioonil on paar nüanssi, millest peaksite eelnevalt teadma, et tegelikkus ei kalduks teie värvikatest ootustest kõrvale.
 
-![cake smash fotosessioon stuudios](cake-smash-ehk-esimese-sünnipäeva-fotosessioon-2.jpg)
+![cake smash fotosessioon stuudios](./cake-smash-ehk-esimese-sünnipäeva-fotosessioon-2.jpg)
 
 * On olemas võimalus, et teie, tavaliselt aktiivne ja uudishimulik beebi, kardab torti.
 See on tõesti suur ja hirmutav asi. Nii et ole valmis liituma oma lapsega tordi hävitusel!
 
-![cake smash fotosessioon stuudios](cake-smash-ehk-esimese-sünnipäeva-fotosessioon-3.jpg)
+![cake smash fotosessioon stuudios](./cake-smash-ehk-esimese-sünnipäeva-fotosessioon-3.jpg)
 
 * Tore, kui teil on kaasas kaks riidekomplekti: üks imearmsate perepiltide jaoks fotosessiooni alguses ja teine - ​​kreemjas määrduvate plekkide jaoks.
 * Kuna fotosessioon on väga emotsionaalne sündmus, eriti kui lubatakse midagi näole ja põrandale määrida, on parem teha fotosessiooni paar nädalat enne sünnipäeva, muidu võib laps kogeda liiga palju muljeid.
 
-![cake smash fotosessioon stuudios](cake-smash-ehk-esimese-sünnipäeva-fotosessioon-4.jpg)
+![cake smash fotosessioon stuudios](./cake-smash-ehk-esimese-sünnipäeva-fotosessioon-4.jpg)
 
 * Samal põhjusel arvestage fotosessiooni aja valimisel kindlasti lapse une- ja ärkveloleku rütmi, et väsimus ei mõjutaks meie lõbusaid kaadreid.
 * Ma saan ise sobiva tordi eest hoolitseda. Kuid kui soovite tingimata enda oma tuua, siis konsulteerige minuga eelnevalt: räägin teile peensustest, mis on CAKE SMASH fotosessiooni visuaalse komponendi jaoks olulised.
-

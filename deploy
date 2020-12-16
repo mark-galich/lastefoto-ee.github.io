@@ -23,7 +23,7 @@ hugo --gc --minify
 
 echo "Updating gh-pages branch"
 
-cd public && echo "www.lastefoto.ee" > CNAME && git add --all && git commit -m "Publishing to gh-pages"
+cd public && git add --all && git commit -m "Publishing to gh-pages"
 
 echo "Pushing to github"
 git push --all

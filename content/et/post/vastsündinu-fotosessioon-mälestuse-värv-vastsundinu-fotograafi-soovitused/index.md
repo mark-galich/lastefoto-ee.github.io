@@ -10,7 +10,7 @@ categories: ["vastsündinud"]
 date: 2020-04-19T17:45:53+02:00
 lastmod: 2020-04-19T17:45:53+02:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,34 +27,26 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
 Rääkisin juba vastsündinu fotosessiooni kõige sobivamaks ajast, kõige armsatest poosidest... Ja täna tahan puudutada värvi teemat.
 
-![vastsündinu pildistamine](./vastsündinu-fotosessioon-mälestuse-värv-vastsundinu-fotograafi-soovitused-1.jpg)
+![vastsündinu pildistamine](./vastsundinu-fotograafi-soovitused-1.jpg)
 
 Enne fotosessiooni saavad vanemad minult küsimustiku, mille üheks punktiks on värvi valimine, milles fotosessioon toimub. Mul on umbes 15 värvi, mille hulgast saate valida.
 
-![vastsündinu fotosessioon](./vastsündinu-fotosessioon-mälestuse-värv-vastsundinu-fotograafi-soovitused-2.jpg)
+![vastsündinu fotosessioon](./vastsundinu-fotograafi-soovitused-2.jpg)
 
 Näib, et kõik on lihtne: abikaasa lemmiku jalgpalli meeskonna värv - punane, ka mulle alati meeldis see värv: energiline, särav ... valime selle!
 
-![vastsündinu fotosessioon stuudios Tallinnas](./vastsündinu-fotosessioon-mälestuse-värv-vastsundinu-fotograafi-soovitused-3.jpg)
+![vastsündinu fotosessioon stuudios Tallinnas](./vastsundinu-fotograafi-soovitused-3.jpg)
 
 AGA.
 Kas roospunased pildid sobivad teie maja interjööri?
 Ja kui beebi sündis punaka nahatooniga, kas olete kindel, et soovite seda rõivaste ja rekvisiitide abil veelgi rõhutada? Või on parem seda punetust rohelisega tasandada?
 
-![vastsündinu fotosessioon stuudios](./vastsündinu-fotosessioon-mälestuse-värv-vastsundinu-fotograafi-soovitused-4.jpg)
+![vastsündinu fotosessioon stuudios](./vastsundinu-fotograafi-soovitused-4.jpg)
 
 Need on sellised peensused, millistest te isegi ei mõtle.
 Aga nüüd, kui te neist teate, mis värvile teie valik langeks? Kas jääte truuks klassikale? Või valite julgemad/ekstravagantsemad värvid?
 
-![vastsündinu pildistamine stuudios Tallinnas](./vastsündinu-fotosessioon-mälestuse-värv-vastsundinu-fotograafi-soovitused-5.jpg)
-
-
-
-
-
-
-
-
-
+![vastsündinu pildistamine stuudios Tallinnas](./vastsundinu-fotograafi-soovitused-5.jpg)
